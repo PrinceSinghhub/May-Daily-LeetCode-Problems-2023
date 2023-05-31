@@ -1,4 +1,4 @@
-# May-Daily-LeetCode-Problems-202
+# May-Daily-LeetCode-Problems-2023
 May Daily LeetCode Problems 2023 [All Problems Solution in Python]
 
 Profile Link: https://leetcode.com/PrinceSingh1/
